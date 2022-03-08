@@ -1,0 +1,15 @@
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncBasic\bin\Debug\net7.0\CSharpAsyncBasic.exe
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncBasic\bin\Debug\net7.0\CSharpAsyncBasic.deps.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncBasic\bin\Debug\net7.0\CSharpAsyncBasic.runtimeconfig.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncBasic\bin\Debug\net7.0\CSharpAsyncBasic.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncBasic\bin\Debug\net7.0\CSharpAsyncBasic.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncBasic\obj\Debug\net7.0\CSharpAsyncBasic.csproj.AssemblyReference.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncBasic\obj\Debug\net7.0\CSharpAsyncBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncBasic\obj\Debug\net7.0\CSharpAsyncBasic.AssemblyInfoInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncBasic\obj\Debug\net7.0\CSharpAsyncBasic.AssemblyInfo.cs
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncBasic\obj\Debug\net7.0\CSharpAsyncBasic.csproj.CoreCompileInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncBasic\obj\Debug\net7.0\CSharpAsyncBasic.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncBasic\obj\Debug\net7.0\refint\CSharpAsyncBasic.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncBasic\obj\Debug\net7.0\CSharpAsyncBasic.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncBasic\obj\Debug\net7.0\CSharpAsyncBasic.genruntimeconfig.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncBasic\obj\Debug\net7.0\ref\CSharpAsyncBasic.dll
